@@ -369,6 +369,8 @@ server.get('/', (req, res)=>{
     
 });
 
+//testing escritura banco de dados 
+
 server.get('/usuario', function(req, res){
     res.setHeader('Content-Type', 'application/json');
     res.end(JSON.stringify( [
