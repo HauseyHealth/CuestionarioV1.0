@@ -1,11 +1,8 @@
-# CuestionarioV1.0
-Cuestionario Protocolo Version 1.0 - Java Script + Dialog Flow + MongoDB
+
+// Cuestionario Protocolo Version 1.0 - Java Script + Dialog Flow + MongoDB
 
 
-CODE BELOW
-
-// hauseyhealth stack Mern + DialogFlow by Facundo Martin Arguello
-
+// hauseyhealth stack Mern + DialogFlow by hausey
 //const op = require('./operaciones');
 const mongoose = require('mongoose');
 const express = require('express');
